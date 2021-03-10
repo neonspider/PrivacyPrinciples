@@ -4,6 +4,7 @@
 - [ ] Explain in clear and understandable terms the way in which information is collected.
 - [ ] Do not unlawfully collect information.
   - [ ] Only collect information that is fair from younger individuals.
+  <!-- have a look at user stories, i.e. "as a user I want to know how my info is collected -->
 
 ### Storage & Security of Personal Information
 - [ ] Take action to ensure personal information is protected and secure from unauthorized access.
